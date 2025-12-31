@@ -1,4 +1,0 @@
-https://www.youtube.com/watch?v=heNlC53o40s
-
-
-reduce primary noise box from 600 600 te generate less boxes
